@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Landing Page;
 	--web-view-id: Landing_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -21,6 +23,8 @@
 	overflow: hidden;
 	--web-view-name: Landing Page;
 	--web-view-id: Landing_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -30,6 +34,7 @@
 	height: 400px;
 	left: 0px;
 	top: 0px;
+	overflow: hidden;
 }
 #Rectangle_2 {
 	fill: rgba(255,255,255,1);
@@ -269,8 +274,8 @@
 #Elias_Christianen_Aalborg_Univ {
 	left: 716px;
 	top: 275px;
-    position: absolute;
-    max-width: 100%;
+	position: absolute;
+	overflow: visible;
 	width: 490px;
 	white-space: nowrap;
 	text-align: left;
