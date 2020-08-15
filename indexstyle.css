@@ -1,0 +1,238 @@
+.mediaViewInfo {
+	--web-view-name: Landing Page;
+	--web-view-id: Landing_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Landing_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Landing_Page {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Landing Page;
+	--web-view-id: Landing_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_1 {
+	position: absolute;
+	width: 710.634px;
+	height: 56.381px;
+	left: 605px;
+	top: 166px;
+	overflow: visible;
+}
+#Path_1_j {
+	fill: url(#Path_1_j);
+}
+.Path_1_j {
+	overflow: visible;
+	position: absolute;
+	width: 10.945px;
+	height: 53.788px;
+	left: 0px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_l {
+	fill: url(#Path_2_l);
+}
+.Path_2_l {
+	overflow: visible;
+	position: absolute;
+	width: 38.452px;
+	height: 53.788px;
+	left: 23.471px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_n {
+	fill: url(#Path_3_n);
+}
+.Path_3_n {
+	overflow: visible;
+	position: absolute;
+	width: 37.587px;
+	height: 53.788px;
+	left: 68.975px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_p {
+	fill: url(#Path_4_p);
+}
+.Path_4_p {
+	overflow: visible;
+	position: absolute;
+	width: 34.635px;
+	height: 53.788px;
+	left: 113.614px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5_r {
+	fill: url(#Path_5_r);
+}
+.Path_5_r {
+	overflow: visible;
+	position: absolute;
+	width: 37.011px;
+	height: 53.788px;
+	left: 157.101px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6_t {
+	fill: url(#Path_6_t);
+}
+.Path_6_t {
+	overflow: visible;
+	position: absolute;
+	width: 44.788px;
+	height: 53.788px;
+	left: 195.981px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7_v {
+	fill: url(#Path_7_v);
+}
+.Path_7_v {
+	overflow: visible;
+	position: absolute;
+	width: 38.739px;
+	height: 56.381px;
+	left: 244.509px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8_x {
+	fill: url(#Path_8_x);
+}
+.Path_8_x {
+	overflow: visible;
+	position: absolute;
+	width: 37.587px;
+	height: 53.788px;
+	left: 286.989px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9_z {
+	fill: url(#Path_9_z);
+}
+.Path_9_z {
+	overflow: visible;
+	position: absolute;
+	width: 10.945px;
+	height: 53.788px;
+	left: 332.42px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10_ {
+	fill: url(#Path_10_);
+}
+.Path_10_ {
+	overflow: visible;
+	position: absolute;
+	width: 39.819px;
+	height: 56.381px;
+	left: 353.659px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_11_ {
+	fill: url(#Path_11_);
+}
+.Path_11_ {
+	overflow: visible;
+	position: absolute;
+	width: 38.451px;
+	height: 53.788px;
+	left: 403.195px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_12_ {
+	fill: url(#Path_12_);
+}
+.Path_12_ {
+	overflow: visible;
+	position: absolute;
+	width: 36.867px;
+	height: 53.788px;
+	left: 470.73px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13_ {
+	fill: url(#Path_13_);
+}
+.Path_13_ {
+	overflow: visible;
+	position: absolute;
+	width: 34.635px;
+	height: 53.788px;
+	left: 517.098px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_ {
+	fill: url(#Path_14_);
+}
+.Path_14_ {
+	overflow: visible;
+	position: absolute;
+	width: 33.844px;
+	height: 56.31px;
+	left: 557.561px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15_bb {
+	fill: url(#Path_15_bb);
+}
+.Path_15_bb {
+	overflow: visible;
+	position: absolute;
+	width: 10.945px;
+	height: 53.788px;
+	left: 600.976px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_16_bd {
+	fill: url(#Path_16_bd);
+}
+.Path_16_bd {
+	overflow: visible;
+	position: absolute;
+	width: 38.884px;
+	height: 56.381px;
+	left: 622.215px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_17_bf {
+	fill: url(#Path_17_bf);
+}
+.Path_17_bf {
+	overflow: visible;
+	position: absolute;
+	width: 38.451px;
+	height: 53.788px;
+	left: 672.183px;
+	top: 1.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
