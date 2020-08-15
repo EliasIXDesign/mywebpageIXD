@@ -268,9 +268,9 @@
 }
 #Elias_Christianen_Aalborg_Univ {
 	left: 716px;
-	top: 275px;
+    top: 275px;
+    max-width: 100%;
 	width: 490px;
-	max-width: 100%;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Quasimoda LightItalic;
