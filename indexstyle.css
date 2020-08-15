@@ -269,8 +269,9 @@
 #Elias_Christianen_Aalborg_Univ {
 	left: 716px;
 	top: 275px;
-	position: absolute;
-	overflow: visible;
+    position: absolute;
+    max-width: 90%;
+    max-height: 90%;
 	width: 490px;
 	white-space: nowrap;
 	text-align: left;
