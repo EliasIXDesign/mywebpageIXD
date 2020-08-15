@@ -24,120 +24,151 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#Group_1 {
+#x2webpagepattatt12x-100 {
 	position: absolute;
-	width: 710.634px;
-	height: 56.381px;
-	left: 605px;
-	top: 166px;
-	overflow: visible;
-}
-#Path_1_j {
-	fill: url(#Path_1_j);
-}
-.Path_1_j {
-	overflow: visible;
-	position: absolute;
-	width: 10.945px;
-	height: 53.788px;
+	width: 1920px;
+	height: 400px;
 	left: 0px;
-	top: 1.297px;
-	transform: matrix(1,0,0,1,0,0);
+	top: 0px;
+	overflow: visible;
 }
-#Path_2_l {
-	fill: url(#Path_2_l);
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
 }
-.Path_2_l {
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 488px;
+	height: 27px;
+	left: 717px;
+	top: 279px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 889px;
+	height: 70px;
+	left: 515px;
+	top: 165px;
+}
+#Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 887.274px;
+	height: 70.395px;
+	left: 516px;
+	top: 165px;
+	overflow: visible;
+}
+#Path_1_m {
+	fill: url(#Path_1_m);
+}
+.Path_1_m {
 	overflow: visible;
 	position: absolute;
-	width: 38.452px;
-	height: 53.788px;
-	left: 23.471px;
-	top: 1.297px;
+	width: 13.666px;
+	height: 67.158px;
+	left: 0px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_n {
-	fill: url(#Path_3_n);
+#Path_2_o {
+	fill: url(#Path_2_o);
 }
-.Path_3_n {
+.Path_2_o {
 	overflow: visible;
 	position: absolute;
-	width: 37.587px;
-	height: 53.788px;
-	left: 68.975px;
-	top: 1.297px;
+	width: 48.01px;
+	height: 67.158px;
+	left: 29.305px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_4_p {
-	fill: url(#Path_4_p);
+#Path_3_q {
+	fill: url(#Path_3_q);
 }
-.Path_4_p {
+.Path_3_q {
 	overflow: visible;
 	position: absolute;
-	width: 34.635px;
-	height: 53.788px;
-	left: 113.614px;
-	top: 1.297px;
+	width: 46.93px;
+	height: 67.158px;
+	left: 86.12px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_5_r {
-	fill: url(#Path_5_r);
+#Path_4_s {
+	fill: url(#Path_4_s);
 }
-.Path_5_r {
+.Path_4_s {
 	overflow: visible;
 	position: absolute;
-	width: 37.011px;
-	height: 53.788px;
-	left: 157.101px;
-	top: 1.297px;
+	width: 43.244px;
+	height: 67.158px;
+	left: 141.855px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_6_t {
-	fill: url(#Path_6_t);
+#Path_5_u {
+	fill: url(#Path_5_u);
 }
-.Path_6_t {
+.Path_5_u {
 	overflow: visible;
 	position: absolute;
-	width: 44.788px;
-	height: 53.788px;
-	left: 195.981px;
-	top: 1.297px;
+	width: 46.211px;
+	height: 67.158px;
+	left: 196.151px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_7_v {
-	fill: url(#Path_7_v);
+#Path_6_w {
+	fill: url(#Path_6_w);
 }
-.Path_7_v {
+.Path_6_w {
 	overflow: visible;
 	position: absolute;
-	width: 38.739px;
-	height: 56.381px;
-	left: 244.509px;
+	width: 55.921px;
+	height: 67.158px;
+	left: 244.695px;
+	top: 1.619px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7_y {
+	fill: url(#Path_7_y);
+}
+.Path_7_y {
+	overflow: visible;
+	position: absolute;
+	width: 48.368px;
+	height: 70.395px;
+	left: 305.286px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_8_x {
-	fill: url(#Path_8_x);
+#Path_8_ {
+	fill: url(#Path_8_);
 }
-.Path_8_x {
+.Path_8_ {
 	overflow: visible;
 	position: absolute;
-	width: 37.587px;
-	height: 53.788px;
-	left: 286.989px;
-	top: 1.297px;
+	width: 46.93px;
+	height: 67.158px;
+	left: 358.325px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_9_z {
-	fill: url(#Path_9_z);
+#Path_9_ {
+	fill: url(#Path_9_);
 }
-.Path_9_z {
+.Path_9_ {
 	overflow: visible;
 	position: absolute;
-	width: 10.945px;
-	height: 53.788px;
-	left: 332.42px;
-	top: 1.297px;
+	width: 13.666px;
+	height: 67.158px;
+	left: 415.049px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_10_ {
@@ -146,9 +177,9 @@
 .Path_10_ {
 	overflow: visible;
 	position: absolute;
-	width: 39.819px;
-	height: 56.381px;
-	left: 353.659px;
+	width: 49.717px;
+	height: 70.395px;
+	left: 441.567px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -158,10 +189,10 @@
 .Path_11_ {
 	overflow: visible;
 	position: absolute;
-	width: 38.451px;
-	height: 53.788px;
-	left: 403.195px;
-	top: 1.297px;
+	width: 48.008px;
+	height: 67.158px;
+	left: 503.416px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_12_ {
@@ -170,69 +201,83 @@
 .Path_12_ {
 	overflow: visible;
 	position: absolute;
-	width: 36.867px;
-	height: 53.788px;
-	left: 470.73px;
-	top: 1.297px;
+	width: 46.031px;
+	height: 67.158px;
+	left: 587.738px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_13_ {
-	fill: url(#Path_13_);
+#Path_13_ba {
+	fill: url(#Path_13_ba);
 }
-.Path_13_ {
+.Path_13_ba {
 	overflow: visible;
 	position: absolute;
-	width: 34.635px;
-	height: 53.788px;
-	left: 517.098px;
-	top: 1.297px;
+	width: 43.244px;
+	height: 67.158px;
+	left: 645.631px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_14_ {
-	fill: url(#Path_14_);
+#Path_14_bc {
+	fill: url(#Path_14_bc);
 }
-.Path_14_ {
+.Path_14_bc {
 	overflow: visible;
 	position: absolute;
-	width: 33.844px;
-	height: 56.31px;
-	left: 557.561px;
+	width: 42.256px;
+	height: 70.307px;
+	left: 696.152px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_15_bb {
-	fill: url(#Path_15_bb);
+#Path_15_be {
+	fill: url(#Path_15_be);
 }
-.Path_15_bb {
+.Path_15_be {
 	overflow: visible;
 	position: absolute;
-	width: 10.945px;
-	height: 53.788px;
-	left: 600.976px;
-	top: 1.297px;
+	width: 13.666px;
+	height: 67.158px;
+	left: 750.359px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_16_bd {
-	fill: url(#Path_16_bd);
+#Path_16_bg {
+	fill: url(#Path_16_bg);
 }
-.Path_16_bd {
+.Path_16_bg {
 	overflow: visible;
 	position: absolute;
-	width: 38.884px;
-	height: 56.381px;
-	left: 622.215px;
+	width: 48.549px;
+	height: 70.395px;
+	left: 776.877px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_17_bf {
-	fill: url(#Path_17_bf);
+#Path_17_bi {
+	fill: url(#Path_17_bi);
 }
-.Path_17_bf {
+.Path_17_bi {
 	overflow: visible;
 	position: absolute;
-	width: 38.451px;
-	height: 53.788px;
-	left: 672.183px;
-	top: 1.297px;
+	width: 48.009px;
+	height: 67.158px;
+	left: 839.266px;
+	top: 1.619px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#Elias_Christianen_Aalborg_Univ {
+	left: 716px;
+	top: 275px;
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quasimoda LightItalic;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
 }
