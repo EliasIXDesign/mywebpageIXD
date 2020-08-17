@@ -101,6 +101,11 @@ input, select {
     vertical-align:middle;
 }
 
+/*-- micro-clearfix by Nicolas Gallagher*--*/
+.cf:before, .cf:after { content: " "; /* 1 */ display: table; /* 2 */ }
+.cf:after { clear: both; }
+
+
 /*MY CODE*/ 
 
 
@@ -153,8 +158,8 @@ header img {
 	.white-box {
 		position: absolute;
 		top: -700px;
-		left: 10%;
-		right: 10%;
+		left: 13%;
+		right: 13%;
 		bottom: 0;
 		margin: auto;
 		background-color: white;
@@ -167,7 +172,7 @@ header img {
 @media only screen and (max-width: 700px) {
 	.white-box {
 		position: absolute;
-		top: -700px;
+		top: -750px;
 		left: 5%;
 		right: 5%;
 		bottom: 0;
@@ -181,7 +186,7 @@ header img {
 	header img {
 		position: absolute;
 		object-fit: cover;
-		height: 200px;
+		height: 180px;
 		width: 100%;
 		z-index: 1;
 	}
@@ -208,4 +213,120 @@ header img {
 		width: 100%;
 		z-index: 1;
 	}
+}
+
+/*WHITE BOX 2 ---------------------------------WHITE BOX 2*/
+
+.white-box2 {
+    position: absolute;
+    top: -540px;
+    left: 36.1%;
+    right: 36.1%;
+    bottom: 0;
+    margin: auto;
+    background-color: white;
+    height: 3%;
+	max-width: 100%;
+    z-index: 2;
+}
+
+.intro {
+	position: relative;
+	text-align: left;
+	font-family: quasimoda, sans-serif ;
+	font-weight: 100;
+	font-style: italic;
+	font-size: 1.5vw;
+    letter-spacing: 0px;
+    color: #707070;
+	opacity: 1;
+	white-space: nowrap; 
+}
+
+@media only screen and (max-width: 1110px) {
+	.white-box2 {
+		position: absolute;
+        top: -540px;
+        left: 26.1%;
+        right: 26.1%;
+        bottom: 0;
+        margin: auto;
+        background-color: white;
+        height: 3%;
+    	max-width: 100%;
+		z-index: 2;
+		text-align: left;
+	}
+
+	.intro {
+		position: relative;
+		text-align: left;
+		font-family: quasimoda, sans-serif ;
+		font-weight: 100;
+		font-style: italic;
+		font-size: 2.6vw;
+		letter-spacing: 0px;
+		color: #707070;
+		opacity: 1;
+		white-space: nowrap; 
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.white-box2 {
+		position: absolute;
+		margin-top: 0px;
+		top: 124px;
+        left: 26.1%;
+        right: 26.1%;
+        bottom: 0;
+        background-color: white;
+        height: 2.4%;
+    	max-width: 100%;
+		z-index: 2;
+		text-align: left;
+	}
+
+	.intro {
+		position: relative;
+		text-align: left;
+		font-family: quasimoda, sans-serif ;
+		font-weight: 100;
+		font-style: italic;
+		font-size: 2.6vw;
+		letter-spacing: 0px;
+		color: #707070;
+		opacity: 1;
+		white-space: nowrap; 
+	}
+}
+
+@media only screen and (max-width:500px) {
+	.white-box2 {
+		position: absolute;
+		margin-top: 0px;
+		top: 70px;
+        left: 26.1%;
+        right: 26.1%;
+        bottom: 0;
+        background-color: white;
+        height: 1.9%;
+    	max-width: 100%;
+		z-index: 2;
+		text-align: left;
+	}
+
+	.intro {
+		position: relative;
+		text-align: center;
+		font-family: quasimoda, sans-serif ;
+		font-weight: 100;
+		font-style: italic;
+		font-size: 2.6vw;
+		letter-spacing: 0px;
+		color: #707070;
+		opacity: 1;
+		white-space: nowrap; 
+	}
+
 }
