@@ -536,8 +536,17 @@ header img {
 	font-family: quasimoda, sans-serif ;
 	font-weight: 100;
 	font-size: 30px;
-	margin-top: 12px;
+	margin-top: 20px;
 	color: grey;
+	text-align: center;
+}
+
+#secondbox {
+    font-family: saffran, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 55px;
+	color:black;
 	text-align: center;
 }
 
