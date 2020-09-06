@@ -517,10 +517,32 @@ header img {
 }
 
 .image {
-	width: 150px;
-	height: 150px;
+	max-width: 150px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
 	margin-left: 25%;
 	margin-top: 10%;
+}
+
+.image2 {
+	max-width: 150px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
+	margin-left: 25%;
+	margin-top: 15%;
+	box-shadow: 5px 5px 2.5px grey;
+}
+
+.image3 {
+	max-width: 150px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
+	margin-left: 25%;
+	margin-top: 16%;
+	box-shadow: 5px 5px 2.5px grey;
 }
 
 #firstbox {
@@ -550,3 +572,22 @@ header img {
 	text-align: center;
 }
 
+#secondbox2 {
+    font-family: saffran, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 55px;
+	color:black;
+	text-align: center;
+	margin-top: 7.4%;
+}
+
+#secondbox3 {
+    font-family: saffran, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 55px;
+	color:black;
+	text-align: center;
+	margin-top: 11%;
+}
