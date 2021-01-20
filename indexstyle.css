@@ -457,45 +457,7 @@ header img {
 	box-shadow: 5px 5px 2.5px grey;
 }
 
-#firstbox {
-    font-family: saffran, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-	font-size: 55px;
-	color:black;
-	position: absolute;
-	text-align: center;
-	width: 100%;
-	bottom: 65px;
-}
-
-#secondbox {
-    font-family: saffran, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-	font-size: 55px;
-	color:black;
-	position: absolute;
-	text-align: center;
-	width: 100%;
-	bottom: 65px;
-}
-
-
-#thirdbox {
-    font-family: saffran, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-	font-size: 55px;
-	color:black;
-	position: absolute;
-	text-align: center;
-	width: 100%;
-	bottom: 65px;
-}
-
-
-#fourthbox {
+.boxtitle {
     font-family: saffran, sans-serif;
     font-weight: 700;
     font-style: normal;
