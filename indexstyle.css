@@ -503,5 +503,8 @@ header img {
 	font-size: 30px;
 	margin-top: 20px;
 	color: grey;
+	position: absolute;
+	bottom: 17px;
 	text-align: center;
+	width: 100%;
 }
