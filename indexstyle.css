@@ -354,42 +354,6 @@ header img {
 	z-index: 3;
 }
 
-/* .box2 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-} */
-
-/* .box3 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-}
-
-.box4 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-} */
-
 
 @media only screen and (max-width: 700px) {
 	.container {
@@ -421,7 +385,6 @@ header img {
 	}
 }
 
-
 .container2 {
 	position: relative;
 	width: 100%;
@@ -434,55 +397,6 @@ header img {
 	justify-content: space-evenly;
 
 }
-
-/* .box5 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-}
-
-.box6 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-}
-
-.box7 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-}
-
-.box8 {
-	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-top: 50px;
-	border-radius: 23px;
-    background: #F2F2F2;
-	box-shadow:  5px 5px 2px #cecece, 
-	-5px -5px 2px #ffffff;
-	z-index: 3;
-} */
-
 
 @media only screen and (max-width: 700px) {
 	.container2 {
@@ -552,25 +466,7 @@ header img {
 	text-align: center;
 }
 
-.date {
-	font-family: quasimoda, sans-serif ;
-	font-weight: 100;
-	font-size: 30px;
-	margin-top: 20px;
-	color: grey;
-	text-align: center;
-}
-
 #secondbox {
-    font-family: saffran, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-	font-size: 55px;
-	color:black;
-	text-align: center;
-}
-
-#secondbox2 {
     font-family: saffran, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -580,7 +476,18 @@ header img {
 	margin-top: 7.4%;
 }
 
-#secondbox3 {
+
+#thirdbox {
+    font-family: saffran, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 55px;
+	color:black;
+	text-align: center;
+}
+
+
+#fourthbox {
     font-family: saffran, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -588,4 +495,13 @@ header img {
 	color:black;
 	text-align: center;
 	margin-top: 11%;
+}
+
+.date {
+	font-family: quasimoda, sans-serif ;
+	font-weight: 100;
+	font-size: 30px;
+	margin-top: 20px;
+	color: grey;
+	text-align: center;
 }
