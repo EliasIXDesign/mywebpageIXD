@@ -112,8 +112,6 @@ input, select {
 
 /*-----------------------------------------------------------------------------------------------------*/
 
-/*-----------------------------------------------------------------------------------------------------*/
-
 
 
 /*MY CODE*/ 
@@ -344,7 +342,7 @@ header img {
 
 }
 
-.box1 {
+.box {
 	position: relative;
 	width: 300px;
 	height: 300px;
@@ -356,7 +354,7 @@ header img {
 	z-index: 3;
 }
 
-.box2 {
+/* .box2 {
 	position: relative;
 	width: 300px;
 	height: 300px;
@@ -366,9 +364,9 @@ header img {
 	box-shadow:  5px 5px 2px #cecece, 
 	-5px -5px 2px #ffffff;
 	z-index: 3;
-}
+} */
 
-.box3 {
+/* .box3 {
 	position: relative;
 	width: 300px;
 	height: 300px;
@@ -390,7 +388,7 @@ header img {
 	box-shadow:  5px 5px 2px #cecece, 
 	-5px -5px 2px #ffffff;
 	z-index: 3;
-}
+} */
 
 
 @media only screen and (max-width: 700px) {
@@ -437,7 +435,7 @@ header img {
 
 }
 
-.box5 {
+/* .box5 {
 	position: relative;
 	width: 300px;
 	height: 300px;
@@ -483,11 +481,11 @@ header img {
 	box-shadow:  5px 5px 2px #cecece, 
 	-5px -5px 2px #ffffff;
 	z-index: 3;
-}
+} */
 
 
 @media only screen and (max-width: 700px) {
-	.container {
+	.container2 {
 		position: relative;
 		width: 100%;
 		height: 100%;
@@ -502,7 +500,7 @@ header img {
 }
 
 @media only screen and (max-width:500px) {
-	.container {
+	.container2 {
 		position: relative;
 		width: 100%;
 		height: 100%;
