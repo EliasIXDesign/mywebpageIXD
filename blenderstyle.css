@@ -1,7 +1,7 @@
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
-    background-color: #eee;
-    color: #444;
+    background-color: #777777; /*box color*/
+    color: white;  /* text color */
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -13,13 +13,13 @@
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .active, .collapsible:hover {
-    background-color: #ccc;
+    background-color: #555555;
   }
   
   /* Style the collapsible content. Note: hidden by default */
   .content {
     padding: 0 18px;
-    background-color: white;
+    background-color: black;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
